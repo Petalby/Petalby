@@ -1,8 +1,11 @@
-# Hi, I'm Alberta Petiafo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75000&center=true&vCenter=true&width=440&lines=Hi+I'm+Alberta Petiafo" />
+</p>
+
 
 ## About Me
-- 🎓 Engineering student passionate about Machine Learning and control systems
-- 🤖 Working on control, estimation, and robotics projects, ML
+- Engineering student passionate about Machine Learning and control systems
+- Working on control, estimation, and robotics projects, ML
 ---
 
 ## Languages & Tools
