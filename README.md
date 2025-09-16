@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Alberta Petiafo
+# Hi, I'm Alberta Petiafo
 
-## 🚀 About Me
+## About Me
 - 🎓 Engineering student passionate about Machine Learning and control systems
 - 🤖 Working on control, estimation, and robotics projects, ML
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=Mathworks)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Simulink](https://img.shields.io/badge/-Simulink-darkred?style=flat-square&logo=mathworks)
