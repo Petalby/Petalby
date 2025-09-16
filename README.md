@@ -1,1 +1,31 @@
+# 👋 Hi, I'm Alberta Petiafo
+
+## 🚀 About Me
+- 🎓 Engineering student passionate about Machine Learning and control systems
+- 🤖 Working on control, estimation, and robotics projects, ML
+---
+
+## 🧰 Languages & Tools
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=Mathworks)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Simulink](https://img.shields.io/badge/-Simulink-darkred?style=flat-square&logo=mathworks)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Petalby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petalby&show_icons=true&theme=radical)
+
+---
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petalby&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Let's Connect
+- 💼 [LinkedIn](www.linkedin.com/in/alberta-petiafo)
+- 📁 [Portfolio](https://petalby.github.io/)
+
 
