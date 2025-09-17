@@ -17,18 +17,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Petalby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petalby&show_icons=true&theme=radical)
 
 ---
 
-## 📈 Most Used Languages
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petalby&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔗 Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/alberta-petiafo)
-- 📁 [Portfolio](https://petalby.github.io/)
+## Let's Connect
+- [LinkedIn](www.linkedin.com/in/alberta-petiafo)
+- [Portfolio](https://petalby.github.io/)
 
 
