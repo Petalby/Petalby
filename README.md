@@ -29,6 +29,6 @@
 
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/alberta-petiafo)
-- [Portfolio](https://petalby.github.io/)
+- [Website](https://petalby.github.io/)
 
 
