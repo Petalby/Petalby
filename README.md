@@ -5,7 +5,7 @@
 
 ## About Me
 - Engineering student passionate about Machine Learning and control systems
-- Working on control, estimation, and robotics projects, ML
+- Working on control, learning, estimation, and robotics projects, ML
 ---
 
 ## Languages & Tools
