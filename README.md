@@ -3,10 +3,6 @@
 </p>
 
 
-## About Me
-- Engineering student passionate about Machine Learning and control systems
-- Working on control, learning, estimation, energy and robotics projects.
----
 
 ## Languages & Tools
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=Mathworks)
@@ -15,17 +11,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## GitHub Stats
-![Petalby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petalby&show_icons=true&theme=radical)
-
----
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petalby&layout=compact&theme=tokyonight)
-
----
 
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/alberta-petiafo)
